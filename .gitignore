@@ -1,0 +1,7 @@
+/application/cache/
+/application/logs/
+*.gz
+/vendor
+/backup
+/uploads
+/nbproject

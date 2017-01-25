@@ -1,0 +1,4 @@
+#! /bin/sh
+composer install
+cp -r vendor/codeigniter/framework/application .
+echo "You may delete this file now"
