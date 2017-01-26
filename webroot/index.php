@@ -89,7 +89,7 @@ switch (ENVIRONMENT)
 		exit(1); // EXIT_ERROR
 }
 
-include "../vendor/autoload.php";
+include dirname(__DIR__)."/vendor/autoload.php";
 
 /*
  *---------------------------------------------------------------
