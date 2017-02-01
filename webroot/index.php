@@ -89,8 +89,6 @@ switch (ENVIRONMENT)
 		exit(1); // EXIT_ERROR
 }
 
-include dirname(__DIR__)."/vendor/autoload.php";
-
 /*
  *---------------------------------------------------------------
  * SYSTEM DIRECTORY NAME
